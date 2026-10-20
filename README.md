@@ -23,7 +23,7 @@ Project difficulty: ***NORMAL*** :hurtrealbad:
 
 ## Setup
 Hardware: Prusa MK3S+\
-Software: PrusaSlicer 2.9.4
+Software: PrusaSlicer 2.9.6
 
 ## License
 This work is licensed under:
